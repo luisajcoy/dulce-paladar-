@@ -6,7 +6,7 @@ body{
     font-family:"Asap Condensed"; /*fuente de letra*/
     font-weight: 600;
     background-color:#faebd7 ;
-    background-image: url("../img/trama.jpg");
+    /*background-image: url("../img/trama.jpg");*/
     background-attachment: fixed; /*para que la imagen de fondo no se mueva al hacer scroll*/
     background-repeat: repeat; /*para que la imagen de fondo se repita*/
 }
